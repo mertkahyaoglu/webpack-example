@@ -1,0 +1,10 @@
+{
+  "name": "webpack-example",
+  "devDependencies": {
+    "webpack": "^1.10.5"
+  },
+  "dependencies": {
+    "ractive": "^0.7.3",
+    "ractive-loader": "^0.5.6"
+  }
+}
